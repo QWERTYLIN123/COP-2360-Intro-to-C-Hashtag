@@ -12,3 +12,4 @@
 /Users/randylin/COP 2360 Intro to C#/obj/Debug/net8.0/COP 2360 Intro to C#.pdb
 /Users/randylin/COP 2360 Intro to C#/obj/Debug/net8.0/COP 2360 Intro to C#.genruntimeconfig.cache
 /Users/randylin/COP 2360 Intro to C#/obj/Debug/net8.0/ref/COP 2360 Intro to C#.dll
+/Users/randylin/COP 2360 Intro to C#/obj/Debug/net8.0/COP 2360 Intro to C#.sourcelink.json
