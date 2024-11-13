@@ -1,0 +1,15 @@
+/Users/randylin/COP 2360 Intro to C#/Lyrics/bin/Debug/net8.0/Lyrics
+/Users/randylin/COP 2360 Intro to C#/Lyrics/bin/Debug/net8.0/Lyrics.deps.json
+/Users/randylin/COP 2360 Intro to C#/Lyrics/bin/Debug/net8.0/Lyrics.runtimeconfig.json
+/Users/randylin/COP 2360 Intro to C#/Lyrics/bin/Debug/net8.0/Lyrics.dll
+/Users/randylin/COP 2360 Intro to C#/Lyrics/bin/Debug/net8.0/Lyrics.pdb
+/Users/randylin/COP 2360 Intro to C#/Lyrics/obj/Debug/net8.0/Lyrics.GeneratedMSBuildEditorConfig.editorconfig
+/Users/randylin/COP 2360 Intro to C#/Lyrics/obj/Debug/net8.0/Lyrics.AssemblyInfoInputs.cache
+/Users/randylin/COP 2360 Intro to C#/Lyrics/obj/Debug/net8.0/Lyrics.AssemblyInfo.cs
+/Users/randylin/COP 2360 Intro to C#/Lyrics/obj/Debug/net8.0/Lyrics.csproj.CoreCompileInputs.cache
+/Users/randylin/COP 2360 Intro to C#/Lyrics/obj/Debug/net8.0/Lyrics.sourcelink.json
+/Users/randylin/COP 2360 Intro to C#/Lyrics/obj/Debug/net8.0/Lyrics.dll
+/Users/randylin/COP 2360 Intro to C#/Lyrics/obj/Debug/net8.0/refint/Lyrics.dll
+/Users/randylin/COP 2360 Intro to C#/Lyrics/obj/Debug/net8.0/Lyrics.pdb
+/Users/randylin/COP 2360 Intro to C#/Lyrics/obj/Debug/net8.0/Lyrics.genruntimeconfig.cache
+/Users/randylin/COP 2360 Intro to C#/Lyrics/obj/Debug/net8.0/ref/Lyrics.dll
